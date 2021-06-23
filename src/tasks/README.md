@@ -9,7 +9,7 @@ Note : Please Follow the below guidelines to create task folders
 
 ### Task Table
 
-| Task No| Task Name | Details | Remarks
+| Task No| Task Name | Details 
 |-|-|-|
 |1| Task 1 | Data Collection  | Collect data from public databases, webscraping, newspapapers, pdf reports, etc.|
 |2| Task 2 | Data Processing & EDA | Clean, transform and process the data and do exploratory data analysis |
