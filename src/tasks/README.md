@@ -11,7 +11,7 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1| Task 1 | Data Collection  | Collect data from public databases, webscraping, newspapapers, pdf reports, etc.
-|2| Task 2 | Data Processing & EDA | Clean, transform and process the data and do exploratory data analysis
-|3| Task 3 | Machine Learning | Develop classification model or object detection models 
-|4| Task 4 | Deployment | Deploy the machine learning model on IoT, WebApp, or develop a dashboard 
+|1| Task 1 | Data Collection  | Collect data from public databases, webscraping, newspapapers, pdf reports, etc.|
+|2| Task 2 | Data Processing & EDA | Clean, transform and process the data and do exploratory data analysis |
+|3| Task 3 | Machine Learning | Develop classification model or object detection models |
+|4| Task 4 | Deployment | Deploy the machine learning model on IoT, WebApp, or develop a dashboard |
