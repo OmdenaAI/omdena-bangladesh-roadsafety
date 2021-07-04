@@ -12,9 +12,9 @@ import time
 from bs4 import BeautifulSoup as bs
 import re
 import os
-from webscraping_beautiful_soup import makesoup
+from webscraping_Dailyobserver_beautiful_soup import makesoup   #Using the previous file as module to import the makesoup function
 
-df= pd.read_csv(r"E:\Machine Learning\Webscraping\RoadAccidentsTheDailyObserver.csv")
+df= pd.read_csv(r"E:\Machine Learning\Webscraping\RoadAccidentsTheDailyObserver.csv")   #Local machine filepath of the previously output csv file
 url_links= df['links']
 news=[]
 for link in url_links:
