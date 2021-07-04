@@ -57,30 +57,10 @@ urllist=["https://www.observerbd.com/cat-adv.php?cd=1&key=accident&y=&pg=",
          "https://www.observerbd.com/cat-adv.php?cd=1&key=accident&y=2020&pg=",
          "https://www.observerbd.com/cat-adv.php?cd=1&key=road%20accident&y=2019&pg="]
 
-#datascraped= scrapeitall(urllist=urllist,start=1,end=26,sleep=0)
-#path=r"E:\Machine Learning\Webscraping"
-#datascraped.to_csv(os.path.join(path,'RoadAccidentsTheDailyObserver.csv'))
+datascraped= scrapeitall(urllist=urllist,start=1,end=26,sleep=0)
+path=r"E:\Machine Learning\Webscraping"   #I have used my local machine directory
+datascraped.to_csv(os.path.join(path,'RoadAccidentsTheDailyObserver.csv'))
 
 
 
 
-# =============================================================================
-# #Removing duplicate links as we are getting duplicates sequentially (IDK why, have to figure out):
-# #=================================================================================================    
-# # =============================================================================
-# # for i in range(len(links)-1):
-# #     if links[i]==links[i+1]:
-# #         #print(str(links[i]==links[i+1]))
-# #         links[i]='*'
-# # 
-# # links= [link for link in links if link!='*']
-# # =============================================================================
-# #=================================================================================================
-#     
-# #Pagination=======================================================================================
-# # =============================================================================
-# # next_button = soup.find(text="আরও")
-# # 
-# # next_button_link = next_button.parent.attrs['href']
-# # =============================================================================
-# =============================================================================
