@@ -46,17 +46,17 @@ def scrapeitall(urllist,start,end,sleep=3):
                 data= {"links":scrapedurl,"titles":title,"Year":yr}
                 dic.append(data)
                 time.sleep(sleep)
-        yr-=1
+        yr-=1                      #Year count from 2021 to 2019 for each url loop
             
     df= pd.DataFrame(dic, dtype=str)
     return df
 
-urllist=["https://www.observerbd.com/cat-adv.php?cd=1&key=accident&y=&pg=",
+urllist=["https://www.observerbd.com/cat-adv.php?cd=1&key=accident&y=&pg=",             #Listed the urls for the search results of accident data for 2021,2020 and 2019 respectively
          "https://www.observerbd.com/cat-adv.php?cd=1&key=accident&y=2020&pg=",
          "https://www.observerbd.com/cat-adv.php?cd=1&key=road%20accident&y=2019&pg="]
 
-datascraped= scrapeitall(urllist=urllist,start=1,end=26,sleep=1)
-path=r"E:\Machine Learning\Webscraping"         #Path for my local machine
+datascraped= scrapeitall(urllist=urllist,start=1,end=26,sleep=1)  #You can set the sleep time=0 if your scraping is slow
+path=r"E:\Machine Learning\Webscraping"         #Path for my local machine to create the csv output
 datascraped.to_csv(os.path.join(path,'RoadAccidentsTheDailyObserver.csv'))
 
 
