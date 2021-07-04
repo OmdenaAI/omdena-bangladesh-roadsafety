@@ -12,12 +12,12 @@ import time
 from bs4 import BeautifulSoup as bs
 import re
 import os
-from webscraping_Dailyobserver_beautiful_soup import makesoup   #Using the previous file as module to import the makesoup function
+from Dailyobserver_webscraping_beautiful_soup import makesoup   #Using the previous file as module to import the makesoup function
 
 df= pd.read_csv(r"E:\Machine Learning\Webscraping\RoadAccidentsTheDailyObserver.csv")   #Local machine filepath of the previously output csv file
 url_links= df['links']
 news=[]
-for link in url_links:
+for link in url_links:          #Scraping the main news report body by looping through all the links
     soup= makesoup(link)
     text=soup.findAll('p')[0].text
     text= re.sub(r'\n','',text)
