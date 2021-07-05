@@ -37,5 +37,5 @@ df["News"]=news
 
 path=r"E:\Machine Learning\Webscraping"
 #print(df)
-df.to_csv(os.path.join(path,'RoadAccidentsTheDailyObserver_regex.csv'),index=False, encoding= 'utf-8-sig')
+df.to_csv(os.path.join(path,'RoadAccidentsTheDailyObserver_encoding_corrected.csv'),index=False, encoding= 'utf-8-sig')
     
