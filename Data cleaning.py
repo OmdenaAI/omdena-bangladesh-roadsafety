@@ -30,3 +30,13 @@ def addheadlines(row):
 
 df["combined"]= df.apply(addheadlines, axis="columns")
 
+
+
+
+#Here I have cleaned the data that I scraped from the daily observer. I have uploaded another scraped version with proper encoding as the previous one was improperly encoded and showing some weird characters in excel. 
+#Newly scraped version: https://docs.google.com/spreadsheets/d/1Esb-1DOV4PtajCx582nt1Z_F_-OwbwD7aWF-c165RgY/edit#gid=1705484839
+#In this code, I have done the following cleanings so that I can use NLP (NER to extract casualities, vehicle type, location etc) on the combined column:
+#1. Stripped off beginning and ending whitespaces
+#2. Corrected the punctuation on the news headlines in the news body
+#3. Added news headlines to the news bodies that did not have the headline in them
+
