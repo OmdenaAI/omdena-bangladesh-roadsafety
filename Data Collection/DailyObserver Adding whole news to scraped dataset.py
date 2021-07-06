@@ -15,7 +15,7 @@ import os
 from Dailyobserver_webscraping_beautiful_soup import makesoup   #Using the previous file as module to import the makesoup function
 
 df= pd.read_csv(r"E:\Machine Learning\Webscraping\RoadAccidentsTheDailyObserver.csv")   #Local machine filepath of the previously output csv file
-df= df.iloc[:,1:3]   #Removing the indexes from the dataframe
+df= df.iloc[:,1:4]   #Removing the indexes from the dataframe
 url_links= df['links']
 news=[]
 
