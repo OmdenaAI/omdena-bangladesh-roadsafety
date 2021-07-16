@@ -1,6 +1,6 @@
 ## What's Inside the Notebooks
 
-> #### [CNN-LSTM: Prediction of Death Count (3-days Window)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time->Series%20Analysis/3days-cnn-lstm-ts-dhaka-tribune.ipynb) (Optimized Hyperparameters)
+> #### [CNN-LSTM: Prediction of Death Count (3-days Window)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/3days-cnn-lstm-ts-dhaka-tribune.ipynb) (Optimized Hyperparameters)
 >
 >* Mean Absolute Error: 0.4284
 >* Mean Squared Error: 0.2625
