@@ -8,7 +8,7 @@
 >* Mean Absolute Percentage Error: inf
 >* R2 Score: 0.9904
 
- ##### [Classical ML: Whether there will be an accident or not? (Daily)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/time-series-classification-dhaka-tribune.ipynb)
+ ##### [Classical ML: Whether there will be an accident or not? (Daily)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/time-series-classification-dhaka-tribune.ipynb) (Is being Revised currently)
 * Macro Average of Recall Score: 1.0
 * Weighted Average of Recall Score: 1.0
 * Macro Average of Precision Score: 1.0
