@@ -10,7 +10,7 @@
 >* Mean Absolute Percentage Error: inf
 >* R2 Score: 0.9904
 
-### Time-Series Classification
+### Time-Series Classification (We're trying to minimize the Flase Negatives and Increase the Recall Score)
 
 >#### [QDA PyCaret: Whether there will be an accident or not? (Daily)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/TS%20Classification-%20PyCaret%20QDA.ipynb)
 >
