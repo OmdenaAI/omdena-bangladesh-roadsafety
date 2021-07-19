@@ -2,13 +2,7 @@
 
 ### Time-Series Forecast
 
-> #### [CNN-LSTM: Prediction of Death Count (3-days Window)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/3days-cnn-lstm-ts-dhaka-tribune.ipynb) (Optimized Hyperparameters)
->
->* Mean Absolute Error: 0.4284
->* Mean Squared Error: 0.2625
->* Root Mean Square Error: 0.5123
->* Mean Absolute Percentage Error: inf
->* R2 Score: 0.9904
+> #### [CNN-LSTM: Prediction of Death Count (3-days Window)](Currently being revised)
 
 ### Time-Series Classification (We're trying to minimize the Flase Negatives and Increase the Recall Score)
 
