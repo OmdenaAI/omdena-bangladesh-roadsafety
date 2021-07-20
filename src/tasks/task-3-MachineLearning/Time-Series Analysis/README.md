@@ -57,13 +57,13 @@
 * Number of False Negatives: 19
 * Accuracy of Unseen Data: 0.6777777777777779
 
-##### [MLJar Ensemble: Whether there will be an accident or not? (Daily)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/TS%20Classification-%20Sktime.ipynb)
+##### [MLJar Ensemble: Whether there will be an accident or not? (Daily)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/TS%20Classification-%20MLJar%20Ensemble.ipynb)
 
 * Macro Avg Recall: 0.5443753533069531
 * Number of False Negatives: 25
 * Accuracy of Unseen Data: 0.6888888888888889
 
-##### [MLJar Ensemble: Whether there will be an accident or not? (Daily)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/TS%20Classification-%20Sktime.ipynb)
+##### [QDA HyperOpt: Whether there will be an accident or not? (Daily)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/TS%20Classification-%20HypertOpt%20QDA.ipynb)
 
 * Macro Avg Recall: 0.49265121537591855
 * Number of False Negatives: 28
