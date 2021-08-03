@@ -2,7 +2,7 @@
 
 ### Time-Series Forecast
 
-#### [LSTM: Prediction of Death Count (Weekly)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/weekly-lstm-ts-dhaka-tribune.ipynb)
+#### [LSTM: Prediction of Death Count (Weekly)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/lstm-ts-forecast-dhaka-tribune-weekly.ipynb)
 >
 * Mean Absolute Error: 2.7500
 * Mean Squared Error: 14.5000
@@ -10,7 +10,7 @@
 * Mean Absolute Percentage Error: 28.8332
 * R2 Score: 0.7197
 
-#### [CNN-LSTM: Prediction of Death Count (6-days window)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/6days-cnn-lstm-ts-dhaka-tribune.ipynb)
+#### [CNN-LSTM: Prediction of Death Count (Weekly)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-Series%20Analysis/cnn-lstm-ts-forecast-dhaka-tribune-weekly.ipynb)
 
 * Mean Absolute Error: 3.1250
 * Mean Squared Error: 20.1250
