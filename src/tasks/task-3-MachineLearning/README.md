@@ -29,3 +29,22 @@ In this project, several time series forcasting models have been created to fore
 * Root Mean Square Error: 4.4861
 * Mean Absolute Percentage Error: 32.9444
 * R2 Score: 0.6110
+
+#### [ARIMA: Prediction of Death Count (Weekly)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-series-analysis(ARIMA%2C%20Facebook%20prophet)/Time_series_prediction(updated).ipynb)
+
+
+* Mean Absolute Error: 7.0
+* Mean Squared Error: 59.8571
+* Root Mean Square Error: 7.7367
+* Mean Absolute Percentage Error: 99.2122
+* R2 Score: 0.1197
+
+#### [Facebook Prophet: Prediction of Death Count (Weekly)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-series-analysis(ARIMA%2C%20Facebook%20prophet)/Time_series_prediction(updated).ipynb)
+
+
+* Mean Absolute Error: 12.5054
+* Mean Squared Error: 380.8478
+* Root Mean Square Error: 19.5153
+* Mean Absolute Percentage Error: inf
+* R2 Score: -0.2961
+
