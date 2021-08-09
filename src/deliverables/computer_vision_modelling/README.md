@@ -5,7 +5,7 @@ Custom Data Source: `/src/data/Computer Vision Dataset/dataset.zip`
 
  * Clone YOLOv5 from [here](https://github.com/ultralytics/yolov5).
 
- * To train again with the CNG Scooter dataset follow the [Notebook]().
+ * To train again with the CNG Scooter dataset follow the [Notebook](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/deliverables/computer_vision_modelling/CNG%20Scooter%20Detection/CNG_SCOOTER_Detection.ipynb).
   
  * To utilise the trained model, copy the `best.pt` weights file from `computer_vision_modelling` folder  to `yolov5\runs\train\exp\weights\best.pt` 
   
