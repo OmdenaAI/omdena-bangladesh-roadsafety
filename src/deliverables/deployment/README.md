@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Download & Unzip this Directory
 
-Download [this directory](https://github.com/TechForGoodInc/MLaaS/tree/main/Natural%20Language%20Processing/Streamlit) and unzip as your working directory.
+Download [this directory](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/tree/main/src/deliverables/deployment/Streamlit) and unzip as your working directory.
 
 ###  Launch the App
 
