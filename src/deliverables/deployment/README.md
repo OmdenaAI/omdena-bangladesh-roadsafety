@@ -19,7 +19,7 @@ conda activate bd-road-safety
 Download requirements.txt file
 
 ```
-wget https://github.com/TechForGoodInc/MLaaS/blob/main/Natural%20Language%20Processing/Streamlit/requirements.txt
+wget https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/deliverables/deployment/Streamlit/requirements.txt
 ```
 
 Pip install libraries
