@@ -67,8 +67,9 @@ Natural language processing (NLP) refers to the branch of computer science—and
 
 NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. Together, these technologies enable computers to process human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment.
 
-**In this project, a Natural Language Processing model has been created which uses Named Entity Recognition (NER) to extract the accident prone location names.**
 
 ### Natural Language Processing (NLP) model:
+
+**In this project, a Natural Language Processing model has been created which uses Named Entity Recognition (NER) to extract the accident prone location names.**
 
 #### [Named_Entity_Recognition](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/deliverables/machine_learning/named_entity_recognition_with_heatmap.ipynb)
