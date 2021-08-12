@@ -39,7 +39,7 @@ In a time series, time is often the independent variable and the goal is usually
 
 ### Time Series Classification Models:
 
-**In this project, Time Series Classification model has been trained to find if there will be any death in a particular date.
+**In this project, Time Series Classification model has been trained to find if there will be any death in a particular date.**
 
 #### [PyCaret QDA: death or not?](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/deliverables/machine_learning/QDA%20TS%20Classification.ipynb)
 
