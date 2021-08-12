@@ -27,7 +27,7 @@ In a time series, time is often the independent variable and the goal is usually
 * R2 Score: 0.7197
 
 
-#### [ARIMA: Prediction of Death Count (Weekly)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/tasks/task-3-MachineLearning/Time-series-analysis(ARIMA%2C%20Facebook%20prophet)/Time_series_prediction(updated).ipynb)
+#### [ARIMA: Prediction of Death Count (Weekly)](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/deliverables/machine_learning/ARIMA_Time-series_prediction.ipynb)
 
 
 * Mean Absolute Error: 7.0
