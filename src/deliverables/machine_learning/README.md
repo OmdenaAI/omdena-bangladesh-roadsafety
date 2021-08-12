@@ -73,3 +73,7 @@ NLP combines computational linguisticsâ€”rule-based modeling of human languageâ€
 **In this project, a Natural Language Processing model has been created which uses Named Entity Recognition (NER) to extract the accident prone location names.**
 
 #### [Named_Entity_Recognition](https://github.com/OmdenaAI/omdena-bangladesh-roadsafety/blob/main/src/deliverables/machine_learning/named_entity_recognition_with_heatmap.ipynb)
+
+**The Heatmap:**
+
+![Heat_Map](heatmap_from_NER.png)
