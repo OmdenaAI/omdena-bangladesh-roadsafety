@@ -16,7 +16,7 @@ Custom Data Source: `/src/data/Computer Vision Dataset/dataset.zip`
 
 # Vechile Detection & Relative Velocity Measurement
 
-##Relative velocity measurement:
+## Relative velocity measurement:
 
   * Clone this github repository for using deepSORT object tracker: https://github.com/theAIGuysCode/yolov4-deepsort.git
   * Replace the object_tracker.py file in the parent directory with this one: src/deliverables/computer_vision_modelling/Vehicle detection and relative velocity/object_tracker.py
