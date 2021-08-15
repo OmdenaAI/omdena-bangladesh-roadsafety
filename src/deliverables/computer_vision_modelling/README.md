@@ -18,7 +18,7 @@ Custom Data Source: `/src/data/Computer Vision Dataset/dataset.zip`
 
 ## Vehicle detection:
   * Clone alexyAB's github repository of darknet YOLOv4
-  * Follow this notebook if you want to check how to train the yolov4-tiny model: 
+  * Follow this notebook if you want to check how to train the yolov4-tiny model: ./src/deliverables/computer_vision_modelling/Vehicle detection and relative velocity/Training_YOLO_v4_tiny_for_vehicle_detection_Final.ipynb
   * Download the trained weights
 
 ## Tracking and relative velocity measurement:
